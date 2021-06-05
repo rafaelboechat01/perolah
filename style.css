@@ -13,6 +13,7 @@ html, body {
 body {
     background: url(img/bg_dark.png);
     font-family: 'Poppins', sans-serif;
+    overflow: hidden;
 }
 
 .wrapper {
